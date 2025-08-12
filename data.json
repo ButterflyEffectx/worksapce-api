@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "หาผู้ออกแบบและสร้างเครื่องจักรขนาดเล็ก",
+        "category": "อื่นๆ",
+        "type": "ฟรีแลนซ์",
+        "budget": 10000,
+        "posted_at": "2025-08-12 14:43",
+        "due_date": null
+    },
+    {
+        "id": 2,
+        "title": "หาคนกด shopee pay later IPad Pro 13”",
+        "category": "อื่นๆ",
+        "type": "สัญญาจ้าง",
+        "budget": 2000,
+        "posted_at": "2025-08-12 14:35",
+        "due_date": "2025-08-20"
+    }
+]
